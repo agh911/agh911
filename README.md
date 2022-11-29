@@ -2,9 +2,11 @@
 
 - 🌱 I’m currently learning Frontend Development.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agh911&show_icons=true&theme=default)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agh911&layout=compact)
+<img width="400em" height="200em" scr="https://github-readme-stats.vercel.app/api?username=agh911&show_icons=true&theme=dark">
+<img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agh911&layout=compact&theme=dark">
+
 
 
 <!--
