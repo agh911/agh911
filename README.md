@@ -1,9 +1,6 @@
 # Hi there, my name is Andreea 👩🏻‍💻
 
-
-## About me
-
-- 🌱 I’m currently learning Frontend Development.
+🌱 I’m currently learning Frontend Development.
 
 ## 📈 GitHub Stats
 
