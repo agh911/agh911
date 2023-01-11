@@ -2,7 +2,9 @@
 
 🌱 I’m currently learning Frontend Development.
 
-## 📊 Github Stats and Activity
+
+<details>
+  📊 Github Stats and Activity
 
   <h3>🔥 Streak Stats</h3>
 
@@ -21,3 +23,4 @@
   
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="agh911's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=agh911&theme=github-compact&hide_border=true"/></a>
+</details>
