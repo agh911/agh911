@@ -37,6 +37,6 @@
 </details>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/andreea-ghenea/"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="margin-right: 5px" width="15px">LinkedIn</a><br>
-<a href="https://www.instagram.com/byagdesign/"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin-right:5px" width="15px">Instagram</a><br>
-<a href="https://www.frontendmentor.io/profile/agh911"><img alt="Frontend Mentor" src="https://imgs.search.brave.com/dGIZu6VdV6JuhUY6pXuWknfOP1-p3VCwt1mXJdctev0/rs:fit:320:320:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcHJhY3RpY2Fs/ZGV2L2ltYWdlL2Zl/dGNoL3MtLVU2RTF0/VFA4LS0vY19maWxs/LGZfYXV0byxmbF9w/cm9ncmVzc2l2ZSxo/XzMyMCxxX2F1dG8s/d18zMjAvaHR0cHM6/Ly9kZXYtdG8tdXBs/b2Fkcy5zMy5hbWF6/b25hd3MuY29tL3Vw/bG9hZHMvb3JnYW5p/emF0aW9uL3Byb2Zp/bGVfaW1hZ2UvMTM5/MC9mNmM3NDI4Yi1j/ODkwLTRjOTctYTU4/Ni0zNTJhODg3Y2Fh/ZDYucG5n" style="background-color:white;border-radius:2px;margin-right:5px;" width="15px">Frontend Mentor</a>
+<a href="https://www.linkedin.com/in/andreea-ghenea/"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="15px"> LinkedIn</a><br>
+<a href="https://www.instagram.com/byagdesign/"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="15px"> Instagram</a><br>
+<a href="https://www.frontendmentor.io/profile/agh911"><img alt="Frontend Mentor" src="https://imgs.search.brave.com/dGIZu6VdV6JuhUY6pXuWknfOP1-p3VCwt1mXJdctev0/rs:fit:320:320:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcHJhY3RpY2Fs/ZGV2L2ltYWdlL2Zl/dGNoL3MtLVU2RTF0/VFA4LS0vY19maWxs/LGZfYXV0byxmbF9w/cm9ncmVzc2l2ZSxo/XzMyMCxxX2F1dG8s/d18zMjAvaHR0cHM6/Ly9kZXYtdG8tdXBs/b2Fkcy5zMy5hbWF6/b25hd3MuY29tL3Vw/bG9hZHMvb3JnYW5p/emF0aW9uL3Byb2Zp/bGVfaW1hZ2UvMTM5/MC9mNmM3NDI4Yi1j/ODkwLTRjOTctYTU4/Ni0zNTJhODg3Y2Fh/ZDYucG5n" style="background-color:white;border-radius:2px;" width="15px"> Frontend Mentor</a>
