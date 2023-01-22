@@ -3,7 +3,7 @@
 🌱 I’m currently learning Frontend Development.
 
 ### Here are some of the languages and tools I work with:
-
+<div>
 <img alt="HTML" src ="https://cdn-icons-png.flaticon.com/512/174/174854.png" style="margin-right: 5px" width="30px">
 <img alt="CSS" src ="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="margin-right: 5px" width="30px">
 <img alt="Bootstrap" src ="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="margin-right: 5px" width="30px">
@@ -12,6 +12,7 @@
 <img alt="Node.js" src ="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="margin-right: 5px" width="30px">
 <img alt="Git" src ="https://imgs.search.brave.com/P8tgN3JjEO3M5UgZG_t4k8XKgJ8MKecubq1JiMRTuAU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvZ2l0/LWljb24tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" style="margin-right: 5px" width="30px">
 <img alt="VS Code" src ="https://imgs.search.brave.com/mdlr1o6PWsg02aNfdct7HUDxOauHic9JXUVflprQTSg/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jb2Rl/LnZpc3VhbHN0dWRp/by5jb20vYXNzZXRz/L2ltYWdlcy9jb2Rl/LXN0YWJsZS5wbmc" style="margin-right: 5px" width="30px">
+</div>
 
 <details>
 <summary><h2>📊 Github Stats and Activity</h2></summary>
