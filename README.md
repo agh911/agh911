@@ -1,7 +1,17 @@
-# Hi there, my name is Andreea 👩🏻‍💻
+## Hi there, my name is Andreea 👩🏻‍💻
 
 🌱 I’m currently learning Frontend Development.
 
+### Here are some of the languages and tools I work with:
+
+<img alt="HTML" src ="https://cdn-icons-png.flaticon.com/512/174/174854.png" style="margin-right: 5px" width="30px">
+<img alt="CSS" src ="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="margin-right: 5px" width="30px">
+<img alt="Bootstrap" src ="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="margin-right: 5px" width="30px">
+<img alt="JavaScript" src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="margin-right: 5px" width="30px">
+<img alt="jQuert" src ="https://imgs.search.brave.com/hl6QCyKriyUuAWGEQylk6bzHuJjmkFWGiIUUOQ32KeM/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9q/cXVlcnlfb3JpZ2lu/YWxfd29yZG1hcmtf/bG9nb19pY29uXzE0/NjQ0Ny5wbmc" style="background-color: white; margin-right: 5px" width="30px">
+<img alt="Node.js" src ="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="margin-right: 5px" width="30px">
+<img alt="Git" src ="https://imgs.search.brave.com/P8tgN3JjEO3M5UgZG_t4k8XKgJ8MKecubq1JiMRTuAU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvZ2l0/LWljb24tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" style="margin-right: 5px" width="30px">
+<img alt="VS Code" src ="https://imgs.search.brave.com/mdlr1o6PWsg02aNfdct7HUDxOauHic9JXUVflprQTSg/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jb2Rl/LnZpc3VhbHN0dWRp/by5jb20vYXNzZXRz/L2ltYWdlcy9jb2Rl/LXN0YWJsZS5wbmc" style="margin-right: 5px" width="30px">
 
 <details>
 <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -24,3 +34,8 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="agh911's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=agh911&theme=github-compact&hide_border=true"/></a>
 </details>
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/andreea-ghenea/"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="margin-right: 5px" width="15px">LinkedIn</a><br>
+<a href="https://www.instagram.com/byagdesign/"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin-right: 5px" width="15px">Instagram</a><br>
+<a href="https://www.frontendmentor.io/profile/agh911"><img alt="Frontend Mentor" src="https://imgs.search.brave.com/dGIZu6VdV6JuhUY6pXuWknfOP1-p3VCwt1mXJdctev0/rs:fit:320:320:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcHJhY3RpY2Fs/ZGV2L2ltYWdlL2Zl/dGNoL3MtLVU2RTF0/VFA4LS0vY19maWxs/LGZfYXV0byxmbF9w/cm9ncmVzc2l2ZSxo/XzMyMCxxX2F1dG8s/d18zMjAvaHR0cHM6/Ly9kZXYtdG8tdXBs/b2Fkcy5zMy5hbWF6/b25hd3MuY29tL3Vw/bG9hZHMvb3JnYW5p/emF0aW9uL3Byb2Zp/bGVfaW1hZ2UvMTM5/MC9mNmM3NDI4Yi1j/ODkwLTRjOTctYTU4/Ni0zNTJhODg3Y2Fh/ZDYucG5n" style="background-color: white; border-radius: 2px; margin-right: 5px" width="15px">Frontend Mentor</a>
