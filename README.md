@@ -6,12 +6,16 @@
 <div>
 <img src ="https://cdn-icons-png.flaticon.com/512/174/174854.png"  alt="HTML" style="margin-right:5px;" width="30px">
 <img src ="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" style="margin-right:5px" width="30px">
-<img src ="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" style="margin-right:5px;" width="30px">
+<img src ="https://www.shecodes.io/assets/logos/technologies/bootstrap-b63cede059eb73dc7036db08fc04826683fce2a3f7a557b40bc68cc3d69b1adb.png" alt="Bootstrap" style="margin-right:5px;" width="40px">
 <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/hl6QCyKriyUuAWGEQylk6bzHuJjmkFWGiIUUOQ32KeM/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9q/cXVlcnlfb3JpZ2lu/YWxfd29yZG1hcmtf/bG9nb19pY29uXzE0/NjQ0Ny5wbmc" alt="jQuery" style="background-color:white; margin-right:5px;" width="30px">
 <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" style="margin-right:5px;" width="30px">
+<img src ="https://www.shecodes.io/assets/logos/technologies/npm-3201750f28bca0fa47cde6796d2c7036b983f5c68c8c31f15c1c2742a21a279a.png
+" alt="npm" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/P8tgN3JjEO3M5UgZG_t4k8XKgJ8MKecubq1JiMRTuAU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvZ2l0/LWljb24tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" alt="Git" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/mdlr1o6PWsg02aNfdct7HUDxOauHic9JXUVflprQTSg/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jb2Rl/LnZpc3VhbHN0dWRp/by5jb20vYXNzZXRz/L2ltYWdlcy9jb2Rl/LXN0YWJsZS5wbmc" alt="VS Code" style="margin-right:5px;" width="30px">
+<!-- <img src ="https://imgs.search.brave.com/xwvfjdUELNKALtibWfTW9p8zwuIZv7g6nuK07wnFzzc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9sYXJnZS9hdG9t/LWxvZ28ucG5n" alt="Atom" style="margin-right:5px;" width="30px"> -->
+<img src ="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" alt="Terminal" style="margin-right:5px;" width="30px">
 </div>
 
 <details>
