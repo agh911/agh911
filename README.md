@@ -13,7 +13,7 @@
 <img src="https://alternative.me/media/256/npm-icon-ynvg3bz5vxj7uac2-c.png" alt="npm" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/P8tgN3JjEO3M5UgZG_t4k8XKgJ8MKecubq1JiMRTuAU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvZ2l0/LWljb24tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" alt="Git" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/mdlr1o6PWsg02aNfdct7HUDxOauHic9JXUVflprQTSg/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jb2Rl/LnZpc3VhbHN0dWRp/by5jb20vYXNzZXRz/L2ltYWdlcy9jb2Rl/LXN0YWJsZS5wbmc" alt="VS Code" style="margin-right:5px;" width="30px">
-<img src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" alt="terminal" width="30px">
+<img src="https://imgs.search.brave.com/egQKErLkt0wYh1DfZPHtPg6i0t4QqsAbtRmvRUqlBk4/rs:fit:1024:1024:1/g:ce/aHR0cDovL3d3dy5q/b3VybmFsZHVsYXBp/bi5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDYvVGVy/bWluYWwucG5n" alt="terminal" width="30px">
 </div>
 
 <details>
