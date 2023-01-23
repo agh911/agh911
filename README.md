@@ -10,8 +10,10 @@
 <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/hl6QCyKriyUuAWGEQylk6bzHuJjmkFWGiIUUOQ32KeM/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9q/cXVlcnlfb3JpZ2lu/YWxfd29yZG1hcmtf/bG9nb19pY29uXzE0/NjQ0Ny5wbmc" alt="jQuery" style="background-color:white; margin-right:5px;" width="30px">
 <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" style="margin-right:5px;" width="30px">
+<img src="https://alternative.me/media/256/npm-icon-ynvg3bz5vxj7uac2-c.png" alt="npm" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/P8tgN3JjEO3M5UgZG_t4k8XKgJ8MKecubq1JiMRTuAU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvZ2l0/LWljb24tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n" alt="Git" style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/mdlr1o6PWsg02aNfdct7HUDxOauHic9JXUVflprQTSg/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jb2Rl/LnZpc3VhbHN0dWRp/by5jb20vYXNzZXRz/L2ltYWdlcy9jb2Rl/LXN0YWJsZS5wbmc" alt="VS Code" style="margin-right:5px;" width="30px">
+<img src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" alt="terminal" width="30px">
 </div>
 
 <details>
