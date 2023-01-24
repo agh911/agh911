@@ -17,9 +17,9 @@
 </div>
 
 <details>
-<summary><h2>📊 Github Stats and Activity</h2></summary>
+<summary><h3>📊 Github Stats and Activity</h3></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h4>🔥 Streak Stats</h4>
 
   <!-- GitHub Readme Streak Stats - https://github.com/agh911/github-readme-streak-stats -->
   <p>
@@ -28,7 +28,7 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h4>💻 GitHub Profile Stats</h4>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="agh911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=agh911&show_icons=true&theme=dark&hide_border=true&hide=Jupyter%20Notebook" height="192px" width="420px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="agh911's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agh911&langs_count=8&layout=compact&theme=dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="420px"/></a>
