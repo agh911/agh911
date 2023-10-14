@@ -1,6 +1,6 @@
 ## Hi there, my name is Andreea 👩🏻‍💻
 
-🌱 I’m currently learning Frontend Development.
+🌱 I’m currently learning towards becoming a Software Engineer.
 
 ### Here are some of the languages and tools I use:
 <div>
