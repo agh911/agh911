@@ -7,7 +7,7 @@
 <div>
 <img src ="https://cdn-icons-png.flaticon.com/512/174/174854.png"  alt="HTML" style="margin-right:5px;" width="30px">
 <img src ="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" style="margin-right:5px" width="30px">
-<img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png](https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" style="margin-right:5px;" width="30px">
+<img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Bootstrap" style="margin-right:5px;" width="30px">
 <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" style="margin-right:5px;" width="30px">
 <img src="https://imgs.search.brave.com/1qP014C-OOh5TsasdNl24XAAsGMA1q3UgA2bNtNwIUU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvanNv/bi1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" alt="JSON"  style="margin-right:5px;" width="30px">
 <img src ="https://imgs.search.brave.com/hl6QCyKriyUuAWGEQylk6bzHuJjmkFWGiIUUOQ32KeM/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9q/cXVlcnlfb3JpZ2lu/YWxfd29yZG1hcmtf/bG9nb19pY29uXzE0/NjQ0Ny5wbmc" alt="jQuery" style="background-color:white; margin-right:5px;" width="30px">
